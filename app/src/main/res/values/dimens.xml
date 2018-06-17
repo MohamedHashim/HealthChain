@@ -1,3 +1,22 @@
 <resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="action_button_padding">4dp</dimen>
+
+    <dimen name="dim_padding_shift_header">16dp</dimen>
+    <dimen name="dim_shift_header">16sp</dimen>
+    <dimen name="dim_shift_day_name">20sp</dimen>
+    <dimen name="dim_shift_day_number">25sp</dimen>
+    <dimen name="dim_lv_my_shift">15dp</dimen>
+    <dimen name="drawable_padding">5dip</dimen>
+    <dimen name="dim_bar">3dp</dimen>
+    <dimen name="reason_text_size">11sp</dimen>
+    <dimen name="warning_icon_size">25dp</dimen>
+    <dimen name="warning_icon_margin">10dp</dimen>
+
+    <integer name="anim_duration_long">600</integer>
+    <integer name="anim_duration_medium">300</integer>
+    <dimen name="dialog_button_width">15dp</dimen>
     <dimen name="button_drawable_padding">7dp</dimen>
+    <dimen name="searching_proximity">12sp</dimen>
+    <dimen name="dim_settings">15dp</dimen>
 </resources>
