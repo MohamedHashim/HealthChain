@@ -19,4 +19,5 @@
     <dimen name="button_drawable_padding">7dp</dimen>
     <dimen name="searching_proximity">12sp</dimen>
     <dimen name="dim_settings">15dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
 </resources>

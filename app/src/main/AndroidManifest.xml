@@ -21,8 +21,9 @@
         <activity
             android:name=".LoginActivity"
             android:theme="@style/AppTheme.NoActionBar" />
-        <activity android:name=".DashboardActivity"
-            android:theme="@style/AppTheme.NoActionBar"></activity>
+        <activity
+            android:name=".DoctorDashboardActivity"
+            android:theme="@style/AppTheme.NoActionBar" />
     </application>
 
 </manifest>

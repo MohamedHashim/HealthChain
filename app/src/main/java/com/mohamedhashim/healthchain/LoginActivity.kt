@@ -17,7 +17,7 @@ class LoginActivity : AppCompatActivity() {
         setContentView(R.layout.activity_login)
         login_btn = findViewById<CircularProgressImageButton>(R.id.btn_login)
         login_btn.setOnClickListener {
-            var intent: Intent = Intent(this, DashboardActivity::class.java)
+            var intent: Intent = Intent(this, DoctorDashboardActivity::class.java)
             startActivity(intent)
         }
     }
