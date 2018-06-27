@@ -81,7 +81,6 @@
             android:drawableEnd="@color/white"
             android:drawablePadding="@dimen/button_drawable_padding"
             android:hint="Gender"
-            android:inputType="textPassword"
             android:maxLines="1"
             android:textColor="@color/white"
             android:textColorHint="@color/white" />
